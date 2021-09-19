@@ -1,0 +1,22 @@
+{
+    "font": {
+        "normal": "Vazir-FD",
+        "bold": "Vazir-Bold-FD",
+        "medium":"Vazir-Medium-FD",
+        "black": "Vazir-Black-FD",
+        "light": "Vazir-Light-FD",
+        "thin":"Vazir-Thin-FD"
+
+    },
+    "colors":{
+        "main":"#079cff",
+        "mainText":"#33527d",
+        "disable":"#d9d9d9",
+        "pink":"#ff52a8",
+        "yellow":"#ffd506",
+        "green":"#1ed102",
+        "gray":"#b5b5b5",
+        "backgroundColor":"#f9fcff",
+        "lightPink":"#feebf5"
+    }
+}
